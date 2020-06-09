@@ -44,4 +44,7 @@
 - (void)test2{
     NSLog(@"测试代码2");
 }
+- (void)test23{
+    NSLog(@"测试代码3");
+}
 @end
