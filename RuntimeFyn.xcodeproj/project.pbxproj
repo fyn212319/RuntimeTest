@@ -16,6 +16,7 @@
 		74B8E9C4248E2D83006622B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B8E9C3248E2D83006622B8 /* main.m */; };
 		74B8E9CE248E2D83006622B8 /* RuntimeFynTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B8E9CD248E2D83006622B8 /* RuntimeFynTests.m */; };
 		74B8E9D9248E2D83006622B8 /* RuntimeFynUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B8E9D8248E2D83006622B8 /* RuntimeFynUITests.m */; };
+		74B8E9E8248E2DC5006622B8 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = 74B8E9E7248E2DC5006622B8 /* Person.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		74B8E9D4248E2D83006622B8 /* RuntimeFynUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RuntimeFynUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		74B8E9D8248E2D83006622B8 /* RuntimeFynUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RuntimeFynUITests.m; sourceTree = "<group>"; };
 		74B8E9DA248E2D83006622B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74B8E9E6248E2DC5006622B8 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
+		74B8E9E7248E2DC5006622B8 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +111,8 @@
 				74B8E9B2248E2D81006622B8 /* AppDelegate.m */,
 				74B8E9B4248E2D81006622B8 /* SceneDelegate.h */,
 				74B8E9B5248E2D81006622B8 /* SceneDelegate.m */,
+				74B8E9E6248E2DC5006622B8 /* Person.h */,
+				74B8E9E7248E2DC5006622B8 /* Person.m */,
 				74B8E9B7248E2D81006622B8 /* ViewController.h */,
 				74B8E9B8248E2D81006622B8 /* ViewController.m */,
 				74B8E9BA248E2D81006622B8 /* Main.storyboard */,
@@ -269,6 +274,7 @@
 			files = (
 				74B8E9B9248E2D81006622B8 /* ViewController.m in Sources */,
 				74B8E9B3248E2D81006622B8 /* AppDelegate.m in Sources */,
+				74B8E9E8248E2DC5006622B8 /* Person.m in Sources */,
 				74B8E9C4248E2D83006622B8 /* main.m in Sources */,
 				74B8E9B6248E2D81006622B8 /* SceneDelegate.m in Sources */,
 			);
