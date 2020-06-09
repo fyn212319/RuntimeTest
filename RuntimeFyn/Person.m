@@ -41,4 +41,7 @@
     NSLog(@"测试代码");
 }
 
+- (void)test2{
+    NSLog(@"测试代码2");
+}
 @end
